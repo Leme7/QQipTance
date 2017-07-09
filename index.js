@@ -73,7 +73,7 @@ $$('#collect-submit').on('click', function(e) {
 function ipip(ip) {
 	myApp.showIndicator();
 	$.ajax({
-		url: "https://ip.nowtool.cn/tance/ip.php?ip=" + ip,
+		url: "./ip.php?ip=" + ip,
 		success: function(data) {
 			myApp.alert(data, '归属地');
 			myApp.hideIndicator()
