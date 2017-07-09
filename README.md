@@ -1,5 +1,5 @@
 # QQipTance
-> ##本项目基于GitHub开源项目：[https://github.com/Alisummer/QQIPDetector][1] 二次开发
+> ##本项目基于另一个GitHub开源项目：[https://github.com/Alisummer/QQIPDetector][1] 二次开发
 
 ##功能
 探测某个或某些QQ用户的IP
