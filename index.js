@@ -81,16 +81,12 @@ function ipip(ip) {
 	})
 }
 myApp.addNotification({
-	message: '本站使用的是GitHub开源项目：https://github.com/Alisummer/QQIPDetector，再加之稍微修改而成的。',
+	message: '本站源码来自GitHub：https://github.com/PrintNow/QQipTance',
 	hold: 30000
 });
 myApp.addNotification({
-	message: '为了保证能够正常使用，请使用其他浏览器（除QQ浏览器等X5内核的浏览器）打开切勿使用 手机QQ/微信 等内置浏览器，否则会没用！',
+	message: '为了保证能够正常使用，请使用手机浏览器访问并且安装了QQ或其他版本的QQ，切勿使用 手机QQ/微博/微信/QQ浏览器 等内置浏览器或等X5内核的浏览器，否则会没用（X5内核渲染页面有问题）！',
 	hold: 15000
-});
-myApp.addNotification({
-	message: '欢迎访问现在网：https://NowTime.cc',
-	hold: 10000
 });
 myApp.addNotification({
 	message: '如果出现404，请将跳转链接改为腾讯的链接后再试。',
