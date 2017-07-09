@@ -85,7 +85,7 @@
                                                         <div class="item-inner">
                                                             <div class="item-title label">图片链接</div>
                                                             <div class="item-input">
-                                                                <input id="cover" type="text" value="http://demo.tgyd.iton.pw/qqiptance.png" name="cover" /></div>
+                                                                <input id="cover" type="text" value="https://tc.image.52miku.cn/o_1bkj27jrqsvfp816sg1onk4faa.png" name="cover" /></div>
                                                         </div>
                                                         <div class="item-media" onclick="myApp.addNotification({message: '消息上显示的图片.',hold: 1500});">
                                                             <i class="icon material-icons">help</i></div>
